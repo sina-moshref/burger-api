@@ -1,0 +1,34 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "reibute bjsofd",
+      "restaurant": "vidon",
+      "web": "www.widon.con",
+      "description": "lorem5 knklnf nk nfklnf ",
+      "address": [
+        {
+          "addressid": "0",
+          "number": "85",
+          "line": "ven streen",
+          "country": "iran"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "reibute bjsofd 2",
+      "restaurant": "vidon 2",
+      "web": "www.widon.con 2",
+      "description": "lorem5 knklnf nk nfklnf 2",
+      "address": [
+        {
+          "addressid": "0 2",
+          "number": "85 2",
+          "line": "ven streen 2",
+          "country": "iran 2"
+        }
+      ]
+    }
+  ]
+}
